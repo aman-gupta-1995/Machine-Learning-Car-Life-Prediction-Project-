@@ -1,4 +1,4 @@
-# Predicting Remaining Useful Life  
+# Predicting Remaining Useful Life 
 <p style="margin:30px">  
     <img style="display:inline; margin-right:50px" width=50% src="https://www.featuretools.com/wp-content/uploads/2017/12/FeatureLabs-Logo-Tangerine-800.png" alt="Featuretools" />
     <img style="display:inline" width=15% src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" alt="NASA" />

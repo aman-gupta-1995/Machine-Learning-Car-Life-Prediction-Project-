@@ -5,7 +5,7 @@ try:
     from StringIO import StringIO 
 except ImportError:
     from io import StringIO
-import os
+import os 
 
 def download_data():
     if 'train_FD004.txt' not in os.listdir('data'):

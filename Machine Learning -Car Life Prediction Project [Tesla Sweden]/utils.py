@@ -7,7 +7,7 @@ except ImportError:
     from io import StringIO
 import os  
 
-def download_data():
+def download_data(): 
     if 'train_FD004.txt' not in os.listdir('data'):
         print('Downloading Data...')
         # Download the data

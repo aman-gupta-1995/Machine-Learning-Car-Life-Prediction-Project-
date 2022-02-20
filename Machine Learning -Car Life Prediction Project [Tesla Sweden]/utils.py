@@ -1,6 +1,6 @@
 from random import randint 
 import pandas as pd 
-import requests, zipfile
+import requests, zipfile 
 try:
     from StringIO import StringIO   
 except ImportError:  

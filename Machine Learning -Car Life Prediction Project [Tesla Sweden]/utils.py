@@ -2,7 +2,7 @@ from random import randint
 import pandas as pd 
 import requests, zipfile
 try:
-    from StringIO import StringIO  
+    from StringIO import StringIO   
 except ImportError:
     from io import StringIO
 import os  

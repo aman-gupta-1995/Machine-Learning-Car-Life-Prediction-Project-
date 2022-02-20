@@ -30,7 +30,7 @@ def load_data(data_path):
         data.shape[0], len(data['engine_no'].unique())))
     print('21 Sensor Measurements\n3 Operational Settings')
     return data
-
+ 
 def new_labels(data, labels):
     ct_ids = []
     ct_times = []

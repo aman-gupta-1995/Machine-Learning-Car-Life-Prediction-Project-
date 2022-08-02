@@ -1,5 +1,5 @@
 baytune>=0.2.3
-jupyter>=1.0.0
+jupyter>=1.0.0 
 featuretools>=0.6.0
 scikit-learn>=0.20.2
 requests>=2.21.0

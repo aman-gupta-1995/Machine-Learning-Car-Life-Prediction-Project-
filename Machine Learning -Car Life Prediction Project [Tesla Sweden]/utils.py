@@ -1,7 +1,7 @@
 from random import randint 
 import pandas as pd 
 import requests, zipfile 
-try:
+try: 
     from StringIO import StringIO    
 except ImportError:   
     from io import StringIO  
